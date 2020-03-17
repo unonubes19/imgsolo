@@ -1,0 +1,811 @@
+https://dictation.io/speech
+https://www.marketingandweb.es/marketing/convertir-voz-en-texto/
+https://github.com/TakuSemba/RtmpPublisher
+https://speechnotes.co/es/ recomiendo mucho
+https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5030295218223297&output=html&h=90&w=1200&bih=625&biw=1349&adx=74&ady=270&ga_vid=245713078.1582589089&ga_sid=1582610111&ga_hid=2042712553&slotname=3296641206&adk=2972328678&url=https://ttsreader.com/es/&ref=https://www.google.com/&frm=20&guci=2.2.0.0.2.2.0.0&eid=21060549,21060623,21065304,21065532,21065538,44714169,26835106&u_his=1&u_nplug=3&u_nmime=4&brdim=0,0,0,0,1366,0,0,0,1366,625&prev_fmts=fpkc_al_lp&format=fpkc_al_lp&kw_type=radlink&hl=es&random=1582610543501&rt=ChBeVLhvAAeoPwqGR0IhA6kJEgEgGgioIc2_e5BKhigBOARSEwi9sO7Zg-znAhVFFYYKHUAlCSR4AoIBDwoLQ2FtYmlhciB2b3oSAIIBEgoOVm96IGRlIGxvY3V0b3ISAIIBHwobUGFzYXIgZGUgdm96IGEgdGV4dG8gZ3JhdGlzEgCCARYKEkxlZXIgdGV4dG9zIGVuIHZvehIAggEaChZWb2ljZSB0byB0ZXh0IHNvZnR3YXJlEgCCARwKGFRyYWR1Y3RvciBjb24gdm96IEFsZW1hbhIAiAEE&ad_type=text  bueno ver
+
+
+https://ttsmp3.com/ me quedo
+https://ttsdemo.com/
+https://texttospeech.io/  html
+https://ttsreader.com/ bueno usar
+
+https://text-to-speech-demo.ng.bluemix.net/
+https://www.readspeaker.com/text-to-speech-demo/
+https://inforobo.com/text-to-speech-online/
+
+https://wideo.co/text-to-speech/
+
+
+https://www.kukarella.com/audio-to-text-converter
+http://www.voicerss.org/sdk/javascript.aspx
+http://www.voicerss.org/registration.aspx
+
+https://talkify.net/text-to-speech
+
+hola  bienvenidos a  valerian x
+https://www.nuance.com/omni-channel-customer-engagement/voice-and-ivr/text-to-speech.html#!   muy bueno e lo recomiendo
+
+https://github.com/begeekmyfriend/yasea
+https://antmedia.io/livedemo/room.php
+el canal de  yotube 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2760pd6IsqY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+https://pelishd24nu.blogspot.com/2018/05/akame-ga-kill-224-castellano-mp4-ligero.html
+
+la clave  es 
+d7jg-6b05-x65q-3mdk         yotube
+
+
+d7jg-6b05-x65q-3mdk
+
+try { var arrayxel=[]; arrayxel = document.getElementsByClassName(" lazyloaded"); for(var i in arrayxel ){ arrayxel[i].style.visibility = "hidden"; } } catch (error) { }
+
+
+dabuttonfactory.com
+
+
+
+
+
+
+try { var arrayxel=[]; arrayxel = document.getElementsByClassName(" example"); for(var i in arrayxel ){ arrayxel[i].style.display = "none"; } } catch (error) { }
+
+
+
+
+
+
+
+
+
+
+
+
+var arrayxel=[];
+var arrayxelentry=[];
+ var arrayxela=[];arrayxel = document.getElementsByClassName(" lazyloaded");
+arrayxela =document.getElementsByTagName("A");
+arrayxelentry= document.getElementsByClassName(" entry-content");
+for(var i in arrayxela ){ arrayxela[i].style.display = "none"; }
+for(var ia in arrayxel ){ arrayxel[ia].style.display = "none"; }
+for(var ib in arrayxelentry){ arrayxelentry[ib].style.display = "none"; } 
+
+
+
+arrayxela =document.getElementsByTagName("A");
+
+
+document.getElementsByTagName("object")[i].style.display = "none"; 
+
+
+
+
+ var arrayxela=[];
+arrayxela =document.getElementsByTagName("a");
+for(var i in arrayxela ){ arrayxela[i].style.display = "none"; }
+
+
+
+ var arrayxela=[];
+arrayxela =document.getElementsByTagName("a");
+for(var i in arrayxela ){ arrayxela[i].visibility = "hidden"; }
+
+
+
+
+---------------------
+cine calidad
+
+
+
+var arrayxel=[];
+arrayxel = document.getElementsByClassName("lazyloaded");
+for(var ia in arrayxel ){ arrayxel[0].style.display = "none"; }
+
+
+var arrayxelentry=[];
+
+arrayxelentry= document.getElementsByClassName("entry-content");
+
+for(var ib in arrayxelentry){ 
+
+
+try {
+  
+
+arrayxelentry[ib].style.display = "none"; 
+} catch (error) {
+  
+}
+
+} 
+
+
+
+var arrayxstitle=[];
+
+arrayxstitle=document.getElementsByClassName("section-header");
+
+for(var i in arrayxstitle){ 
+
+
+try {
+  
+
+arrayxstitle[i].style.display = "none"; 
+} catch (error) {
+  
+}
+
+} 
+
+
+
+var arrayxscache=[];
+
+arrayxscache=document.getElementsByClassName("ls-is-cached lazyloaded");
+
+for(var i in arrayxscache){ 
+
+
+try {
+  
+
+arrayxscache[i].style.display = "none"; 
+} catch (error) {
+  
+}
+
+} 
+
+try {
+  
+
+document.getElementById("ft").style.display="none";
+} catch (error) {
+  
+}
+
+ -------------------
+
+
+
+
+
+
+pelisplay
+
+
+
+try {
+  
+
+document.getElementById("logo_contenedor").style.display="none";
+} catch (error) {
+  
+}
+try {
+  
+
+
+document.getElementById("login_header").style.display="none";
+} catch (error) {
+  
+}
+try {
+  
+
+
+
+document.getElementsByTagName("footer")[0].style.display="none";
+} catch (error) {
+  
+}
+
+
+
+document.getElementsByClassName("img-photo-profile")[0].style.display="none";
+
+
+
+
+--------------------
+
+
+
+try {
+  
+
+
+document.getElementsByClassName("header-logo")[0].style.display="none";
+[0].style.display="none";
+} catch (error) {
+  
+}
+
+
+try {
+  
+
+
+document.getElementsByClassName("url")[0].style.display="none";
+[0].style.display="none";
+} catch (error) {
+  
+}
+
+
+
+
+
+ url
+
+
+
+
+
+
+
+-------------------
+
+https://www7.animeflv.cc/
+
+
+
+
+document.getElementsByTagName("img")[0].src="https://github.com/unonubes19/imgsolo/blob/master/anime.jpg?raw=true";
+
+document.getElementsByClassName("mobi")[0].style.display="none";
+document.getElementsByTagName("strong")[0].innerText="Valerianx";
+document.getElementsByClassName("adstop")[0].style.display="none";
+document.getElementsByClassName("Footer")[0].style.display="none";
+
+document.getElementsByTagName("H1")[0].innerText=" Valerianx";
+
+
+_ylyom3a
+
+https://www7.animeflv.cc/
+
+
+
+
+try { 
+document.getElementsByClassName("mgbox")[0].style.display="none";
+} 
+catch (error) { }
+
+try { 
+
+  setTimeout(function(){
+    var arCpCnB= document.getElementsByClassName("CpCnB");
+    for(var i in arCpCnB){
+
+      try { 
+       arCpCnB[i].style.display="none";
+        } 
+        catch (error) { }
+    }
+  
+  },2200);
+} 
+catch (error) { }
+
+
+try { 
+
+  setTimeout(function(){
+    var arCpCnC= document.getElementsByClassName("CpCnC");
+    for(var i in arCpCnC){
+
+      try { 
+      arCpCnC[i].style.display="none";
+        } 
+        catch (error) { }
+    }
+  
+  },2000);
+} 
+catch (error) { }
+
+
+
+
+
+try { 
+document.getElementsByClassName("ListAnmRel")[0].style.display="none";
+} 
+catch (error) { }
+try { 
+document.getElementsByClassName("Footer")[0].style.display="none";
+
+} 
+catch (error) { }
+
+
+
+
+  setTimeout(function(){try {
+  
+
+document.getElementsByTagName("img")[0].src="https://github.com/unonubes19/imgsolo/blob/master/anime.jpg?raw=true";
+
+document.getElementsByClassName("mobi")[0].style.display="none";
+document.getElementsByTagName("strong")[0].innerText="Valerianx";
+document.getElementsByClassName("adstop")[0].style.display="none";
+document.getElementsByClassName("Footer")[0].style.display="none";
+
+document.getElementsByTagName("H1")[0].innerText=" Valerianx";
+document.getElementById("_ylyom3a").style.display="none";
+
+
+
+
+} catch (error) {
+  
+}
+},2300);
+
+
+
+
+
+
+
+
+
+-------------------
+
+
+-------------
+
+
+https://www.breaktime.tv/category/netflix/
+
+
+
+
+
+
+  setTimeout(function(){try {
+  
+
+
+document.getElementsByClassName("logo")[0].style.display="none";
+
+
+
+document.getElementById("footer-post").style.display="none";
+} catch (error) {
+
+}
+},2000);
+
+
+-------------
+
+
+
+
+
+
+
+
+
+
+
+
+-------------
+https://megalatino.net/mega-serie/
+
+try { document.getElementsByTagName("img")[0].src="https://github.com/unonubes19/imgsolo/blob/master/varr.jpg?raw=true";
+ document.getElementsByTagName("img")[1].src="https://github.com/unonubes19/imgsolo/blob/master/varr.jpg?raw=true";
+ document.getElementsByClassName("box_links")[0].style.display="none"; document.getElementsByTagName("footer")[0].style.display="none"; 
+document.getElementById("mCSB_1").style.display="none"; document.getElementsByClassName("widget")[0].style.display="none"; 
+} 
+catch (error) { }
+
+
+
+-------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------
+https://simpsonitos.com/       https://legiondescargas.com/   https://www.youtube.com/watch?v=J7qJkg2SKsw ste uso  https://elbasurero.pro/series/descarga-todas-las-temporadas-de-los-simpson/ https://mega.nz/#F!0kZS2SIL!3up51oqN7Lszk1LsQVS_xQ
+setTimeout(function(){
+try { 
+var arp= document.getElementsByTagName("p");
+  for(var i in arp){
+try { 
+arp[i].style.display="none";
+  }catch (error) { }
+
+
+
+
+  }
+
+} 
+catch (error) { }
+
+
+
+try { 
+var artrok= document.getElementsByTagName("strong");
+  for(var i in artrok){
+try { 
+artrok[i].innerText=" Valerianx";
+  }catch (error) { }
+
+
+
+
+  }
+
+} 
+catch (error) { }
+
+try { 
+var armgbox= document.getElementsByClassName("mgbox");
+  for(var i in armgbox){
+try { 
+armgbox[i].style.display="none";
+  }catch (error) { }
+
+
+
+
+  }
+
+} 
+catch (error) { }
+try { 
+var arsidebar= document.getElementsByClassName("sidebar");
+  for(var i in arsidebar){
+try { 
+arsidebar[i].style.display="none";
+  }catch (error) { }
+
+
+
+
+  }
+
+} 
+catch (error) { }
+ 
+
+
+document.getElementById("onesignal-bell-launcher").style.display="none";
+},2000);
+
+----------------------------------
+
+
+
+
+
+
+
+
+
+
+https://www.readspeaker.com/es/demos/
+
+
+
+
+
+
+
+UxzJpkgj5as
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://pc-op.fingergame.me/?sp=1035&ss=78654&ts=NDM1NTg3XzExNTE2NTFfNzg2NTRfMF8tNTYyNzYyNDY1MzYyNDg4NjAxMF8xODYuMjkuMTgzLjIzNF8xNTgyNjc4Nzc1XzExXzEwMV9fQUI2REFDNkQ1
+
+
+
+
+
+<iframe src="https://mega.nz/embed#!DrpTUQqS!wKt5YuCEi7p4SLkfiEUjA6Hu4u5YueA44vfBAXC_hh4" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
+
+
+Solo para valientes netflix gratis para Android con la app valerianx
+https://play.google.com/store/apps/details?id=com.esotam.Valerianx&fbclid=IwAR1rt7_4BPYRO2H2ZBd4xMVlpGIhXUiOacG-HeDjosgCzsfRe3fD0hLi_iY
+
+
+
+
+https://simpsonitos.com/
+
+wixx blog}
+try { 
+document.getElementById("WIX_ADS").style.display="none";
+document.getElementById("comp-ipe3h1yj3").style.display="none";
+
+} 
+catch (error) { }
+
+-----------------
+
+
+
+
+
+
+ultimomegalatino
+
+
+
+
+https://megalatino.net/mega-serie/
+
+try { 
+document.getElementById("WIX_ADS").style.display="none";
+document.getElementById("comp-ipe3h1yj3").style.display="none";
+
+} 
+catch (error) { }
+
+
+
+
+
+
+-------------------------
+
+
+
+
+
+
+
+
+
+
+https://simpsons-latino.com/
+
+
+
+
+
+setTimeout(function(){
+    
+
+    
+    try { 
+        document.getElementsByTagName("img")[0].src="https://github.com/unonubes19/imgsolo/blob/master/pngvalerianx.png?raw=true";
+        
+          }catch (error) { }
+        
+        
+        try { 
+        document.getElementById("footer").style.display="none";
+        
+          }catch (error) { }
+        
+        
+        try { 
+        document.getElementsByClassName("download-button")[0].style.display="none";
+        
+          }catch (error) { }      
+
+
+
+        try { 
+        document.getElementsByClassName("infos")[0].style.display="none";
+        
+          }catch (error) { }
+
+     try { 
+        document.getElementsByClassName("mgbox")[0].style.display="none";
+        
+          }catch (error) { }
+
+
+
+        
+        try { 
+     document.getElementById("MarketGidComposite375923")[0].style.display="none";
+        
+          }catch (error) { }
+     try { 
+        document.getElementsByClassName("comments")[0].style.display="none";
+        
+          }catch (error) { }
+
+
+    
+},700);
+
+
+
+
+
+
+
+
+
+-------------------------
+https://text-to-speech-demo.ng.bluemix.net/
+
+https://notevibes.com/cabinet.php
+https://www.readspeaker.com/
+
+           try { 
+document.getElementsByClassName("hero--webreader")[0] .style.visibility = "visible";
+
+                }catch (error) { }
+
+              try { 
+document.getElementsByClassName("hero--webreader")[0] .style.visibility = "hidden";
+
+                }catch (error) { }
+           try { 
+document.getElementsByClassName("rsicn")[0] .style.visibility = "hidden";
+
+                }catch (error) { }
+     
+                
+
+
+https://cinerama91.com/series/descargar-castlevania/
+
+    try { 
+document.getElementsByClassName("hero-paragraph")[0] .style.visibility = "visible";
+
+                }catch (error) { }
+
+var esta="Hola bienvenidos al curso de matemáticas ………. La palabra álgebra proviene de ilm al jabr w’al muqabala, título de un libro escrito en el siglo 9 por el matemático árabe Al Juarismi. El título se ha traducido como la ciencia de restauración y reducción, lo cual significa trasponer y combinar términos semejantes (de una ecuación). La transliteración latina de al-jabr llevó al nombre de la rama de las matemáticas que ahora llamamos álgebra. En álgebra usamos símbolos o letras, por ejemplo a, b, c, d, x, y, para denotar números arbitrarios. Esta naturaleza general del álgebra está ilustrada por las numerosas fórmulas empleadas en ciencia y la industria. A medida que el estudiante avance en matemáticas, o a campos de actividad donde se utilizan matemáticas, estará cada vez más consciente de la importancia y poder de las técnicas algebraicas.";
+
+    try { 
+
+        document.getElementsByClassName("hero-paragraph")[0].innerHTML=esta;
+  
+ }catch (error) { }
+
+
+ try { 
+document.getElementsByClassName("main-footer")[0].style.display="none";
+  
+ }catch (error) { }             
+
+
+
+var arrsection=  document.getElementsByClassName("section");
+  for(var i in arrsection){
+    try { 
+        arrsection[i].style.display="none";
+          
+         }catch (error) { } 
+  }                   
+
+
+ try { 
+document.getElementsByClassName("block-demo")[0].style.display="none";
+  
+ }catch (error) { }    
+
+ try { 
+ document.getElementById("header").style.display="none";
+  
+ }catch (error) { }    
+
+ try { 
+document.getElementsByClassName("btn-rs")[1].style.display="none";
+  
+ }catch (error) { }  
+
+
+Estructuras Software y tecnologia Ambiental
+header
+
+
+rs_skip
+
+main-footer
+
+
+-------------------
+https://www.elitestream.io/
+
+
+
+
+
+
+
+
+ try { 
+
+
+  document.getElementsByClassName("loaded")[0].src="https://github.com/unonubes19/imgsolo/blob/master/varpng.png?raw=true";
+ 
+
+ }catch (error) { }  
+
+
+
+    try { 
+        document.getElementsByTagName("a")[0].href="https://unonibes4a.github.io/nvalerianx/";
+        
+          }catch (error) { }
+
+try { 
+  document.getElementsByClassName("mensaje")[0].style.display="none";
+        
+}catch (error) { }
+
+
+
+
+try { 
+document.getElementById("back-footer").style.display="none";
+        
+}catch (error) { }
+
+
+
+
+
+
+setTimeout(function(){
+ try { 
+
+
+  document.getElementsByClassName("loaded")[0].src="https://github.com/unonubes19/imgsolo/blob/master/varpng.png?raw=true";
+ 
+
+ }catch (error) { }  
+
+},2000);
+
+
+
+
+
+--------------------
+
